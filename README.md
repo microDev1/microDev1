@@ -1,11 +1,7 @@
-![](https://raw.githubusercontent.com/microDev1/microS2/master/docs/microS2-img.png)
-
-
 ### Hi there 👋
 Introducing the **microS2** - An ESP32-S2 based development board in the size of an esp32 module!
 
-![](https://raw.githubusercontent.com/microDev1/microS2/master/docs/microS2-wroom.png)
-![](https://raw.githubusercontent.com/microDev1/microS2/master/docs/microS2-features.png)
+![](https://raw.githubusercontent.com/microDev1/microS2/master/docs/microS2-img.png)
 
 <!--
 **microDev1/microDev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
